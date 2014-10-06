@@ -1,0 +1,36 @@
+#header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.categories {
+    width: 100%;
+    padding: 5px;
+}
+
+.category {
+    float: left;
+    width: 25%;
+}
+
+.category_decor {
+    font-family: "Arial";
+    font-size: 30px;
+}
+
+#company_name {
+    font-size: 80px;
+    font-family: "Arial";
+    padding-bottom: 10px;
+}
+
+#nav {
+    line-height: 30px;
+    background-color: #eeeeee;
+    height: 300px;
+    width:100px;
+    float:left;
+    padding: 5px;
+}
